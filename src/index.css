@@ -6,7 +6,7 @@
 body {
 width: 100vh;
 height: 100vh;
-background-color: beige;
+background-color: rgb(241, 241, 226);
 color: black;
 font-family: 'Courier New', Courier, monospace;
 display: flex;
